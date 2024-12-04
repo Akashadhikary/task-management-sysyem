@@ -49,7 +49,6 @@ const Dashboard = () => {
     fetchTaskData();
   }, []);
   
-
   const pieData = {
     labels: Object.keys(taskData.priorityDistribution),
     datasets: [{
