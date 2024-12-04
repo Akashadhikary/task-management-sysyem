@@ -11,8 +11,7 @@ Ensure you have the following installed on your system:
 	•	npm
 	•	MongoDB (local instance or a cloud service like MongoDB Atlas)
 
-2. Clone the Repository:
-git clone https://github.com/Akashadhikary/task-management-sysyem.git
+2. Clone the Repository: git clone https://github.com/Akashadhikary/task-management-sysyem.git, then
 cd task-management-system
 
 3. Backend Setup:
